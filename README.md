@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @mateusriff
 - 👀 Tenho interesse em tecnologia, negócios, empreendedorismo, economia e o mundo.
-- 🌱 Curso Ciências Econômicas na UFPE e estou em um processo seletivo do CITi, a melhor empresa júnior de tecnologia do Brasil!
-- 💞️ No momento, procuro colaborar e aprender ao longo do treinamento de desenvolvimento, parte do processo seletivo.
+- 🌱 Sou desenvolvedor full-stack no CITi, a melhor empresa júnior de tecnologia do Brasil!
+- 💞️ No momento, procuro colaborar e aprender com meus colegas. 
 - 📫 Você pode entrar em contato comigo pelo meu e-mail: mateusnriff@gmail.com
 
 <!---
