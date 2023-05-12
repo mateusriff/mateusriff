@@ -3,7 +3,6 @@
 - 📚 Computer Information Systems Undergraduate at [CIn, UFPE](https://portal.cin.ufpe.br/)
 - 💻 Software Developer at [CITi, UFPE](https://citi.org.br/) and [aca.so](https://github.com/aca-so)
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 📌 Check out [my portfolio](https://mateus-riff.vercel.app/)
 
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
