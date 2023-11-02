@@ -5,4 +5,4 @@
 - 👨‍💻 Currently work as a Front-end Developer at [aca.so](https://github.com/aca-so)
 - 🤖 Also a member of [RobôCIn](https://github.com/robocin/)
 
-**Tech Stack:** JavaScript, TypeScript, HTML, CSS, React.js, React Native, Next.js, Jest, React Testing Library, Cypress.
+**Tech Stack:** JavaScript, TypeScript, HTML, CSS, React.js, React Native, Next.js.
