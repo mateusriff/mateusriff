@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 ### About Me 🚀
 💼  I'm a Software Engineer at Neurotech, a soon-to-be branch of B3 (AKA: the Brazilian Stock Exchange). </br>
 👨‍💻  I have experience building user interfaces, both web and native, REST APIs, and cloud applications on AWS. </br>
-🔨  I love creating things, and for me, learning expands the possibilities of what I can create.
