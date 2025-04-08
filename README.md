@@ -1,1 +1,1 @@
-Software engineer at the Brazilian Stock Exchange. 
+Software engineer at the Brazilian Stock Exchange (B3), Neurotech branch. 
